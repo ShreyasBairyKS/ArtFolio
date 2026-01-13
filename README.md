@@ -301,7 +301,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👥 Team
 
-**Developer:** R-V-Abhishek  
+**Developer:** R-V-Abhishek , ShreyasBairyKS, GShreekar
 **Repository:** [github.com/R-V-Abhishek/ArtFolio](https://github.com/R-V-Abhishek/ArtFolio)
 
 ---
